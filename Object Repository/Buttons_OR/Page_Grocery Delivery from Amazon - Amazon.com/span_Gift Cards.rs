@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gift Cards</name>
+   <tag></tag>
+   <elementGuidId>5a13cedc-a7f9-4c50-9020-fc2304751b35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav_link_gift_cards > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav_link_gift_cards']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0e4dce31-594d-4a03-aee3-de46995e9917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gift Cards</value>
+      <webElementGuid>c1f17224-ad60-4fba-ae1a-399a42c4ee7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_link_gift_cards&quot;)/span[1]</value>
+      <webElementGuid>f65fa79d-4b55-4645-a3a1-7724346ce278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav_link_gift_cards']/span</value>
+      <webElementGuid>3e9b7da7-763e-4e2e-8e87-bbd1b7ceb29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[5]/span</value>
+      <webElementGuid>26ebc638-b825-4531-bcd3-ab12b658abb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Gift Cards' or . = 'Gift Cards')]</value>
+      <webElementGuid>f9ebc9bc-c8ab-4c4d-9eaf-eae156a0f76d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

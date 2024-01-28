@@ -1,0 +1,86 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Deals_Zipcode,Chrome 121.0.0.0,,,28-01-2024 14:36:20,28-01-2024 14:38:07,1m - 47.401s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06,Chrome 121.0.0.0,,,28-01-2024 14:36:20,28-01-2024 14:36:38,18.050s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 14:36:20,28-01-2024 14:36:21,0.503s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 14:36:21,28-01-2024 14:36:25,3.723s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 14:36:25,28-01-2024 14:36:27,1.980s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,28-01-2024 14:36:27,28-01-2024 14:36:28,1.544s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,28-01-2024 14:36:28,28-01-2024 14:36:30,1.398s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,28-01-2024 14:36:30,28-01-2024 14:36:31,1.398s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,28-01-2024 14:36:31,28-01-2024 14:36:32,1.008s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,28-01-2024 14:36:32,28-01-2024 14:36:32,0.345s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/span_Deliver to""))",Chrome 121.0.0.0,,,28-01-2024 14:36:32,28-01-2024 14:36:36,3.642s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput""), ""10005"")",Chrome 121.0.0.0,,,28-01-2024 14:36:36,28-01-2024 14:36:37,1.477s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/input_a-button-input""))",Chrome 121.0.0.0,,,28-01-2024 14:36:37,28-01-2024 14:36:38,0.415s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 14:36:38,28-01-2024 14:36:38,0.252s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 14:36:38,28-01-2024 14:36:38,0.074s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06,Chrome 121.0.0.0,,,28-01-2024 14:36:38,28-01-2024 14:36:54,16.204s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 14:36:38,28-01-2024 14:36:38,0.027s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 14:36:38,28-01-2024 14:36:40,1.207s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 14:36:40,28-01-2024 14:36:42,2.234s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,28-01-2024 14:36:42,28-01-2024 14:36:44,2.281s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,28-01-2024 14:36:44,28-01-2024 14:36:45,1.322s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,28-01-2024 14:36:45,28-01-2024 14:36:47,1.793s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,28-01-2024 14:36:47,28-01-2024 14:36:48,1.003s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,28-01-2024 14:36:48,28-01-2024 14:36:48,0.339s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/span_Deliver to""))",Chrome 121.0.0.0,,,28-01-2024 14:36:48,28-01-2024 14:36:52,3.695s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput""), ""10005"")",Chrome 121.0.0.0,,,28-01-2024 14:36:52,28-01-2024 14:36:54,1.463s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/input_a-button-input""))",Chrome 121.0.0.0,,,28-01-2024 14:36:54,28-01-2024 14:36:54,0.599s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 14:36:54,28-01-2024 14:36:54,0.173s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 14:36:54,28-01-2024 14:36:54,0.043s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06,Chrome 121.0.0.0,,,28-01-2024 14:36:54,28-01-2024 14:37:12,17.769s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 14:36:54,28-01-2024 14:36:55,0.013s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 14:36:55,28-01-2024 14:36:56,1.073s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 14:36:56,28-01-2024 14:36:56,0.833s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,28-01-2024 14:36:56,28-01-2024 14:37:03,6.350s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,28-01-2024 14:37:03,28-01-2024 14:37:04,1.317s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,28-01-2024 14:37:04,28-01-2024 14:37:06,1.967s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,28-01-2024 14:37:06,28-01-2024 14:37:07,1.006s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,28-01-2024 14:37:07,28-01-2024 14:37:07,0.332s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/span_Deliver to""))",Chrome 121.0.0.0,,,28-01-2024 14:37:07,28-01-2024 14:37:10,2.822s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput""), ""10005"")",Chrome 121.0.0.0,,,28-01-2024 14:37:10,28-01-2024 14:37:12,1.481s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location_OR/Page_Amazon.com. Spend less. Smile more/input_a-button-input""))",Chrome 121.0.0.0,,,28-01-2024 14:37:12,28-01-2024 14:37:12,0.345s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 14:37:12,28-01-2024 14:37:12,0.173s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 14:37:12,28-01-2024 14:37:12,0.037s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_004,Chrome 121.0.0.0,,,28-01-2024 14:37:12,28-01-2024 14:37:32,19.964s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 14:37:12,28-01-2024 14:37:12,0.024s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 14:37:12,28-01-2024 14:37:13,1.054s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 14:37:13,28-01-2024 14:37:15,1.431s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,28-01-2024 14:37:15,28-01-2024 14:37:22,7.642s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,28-01-2024 14:37:22,28-01-2024 14:37:24,1.436s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,28-01-2024 14:37:24,28-01-2024 14:37:25,1.394s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,28-01-2024 14:37:25,28-01-2024 14:37:26,0.997s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,28-01-2024 14:37:26,28-01-2024 14:37:27,0.443s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals""))",Chrome 121.0.0.0,,,28-01-2024 14:37:27,28-01-2024 14:37:32,5.237s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 14:37:32,28-01-2024 14:37:32,0.213s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 14:37:32,28-01-2024 14:37:32,0.029s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_004,Chrome 121.0.0.0,,,28-01-2024 14:37:32,28-01-2024 14:37:50,17.953s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 14:37:32,28-01-2024 14:37:32,0.009s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 14:37:32,28-01-2024 14:37:33,1.020s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 14:37:33,28-01-2024 14:37:35,1.667s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,28-01-2024 14:37:35,28-01-2024 14:37:37,2.328s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,28-01-2024 14:37:37,28-01-2024 14:37:39,1.318s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,28-01-2024 14:37:39,28-01-2024 14:37:40,1.777s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,28-01-2024 14:37:40,28-01-2024 14:37:41,1.088s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,28-01-2024 14:37:41,28-01-2024 14:37:42,0.329s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals""))",Chrome 121.0.0.0,,,28-01-2024 14:37:42,28-01-2024 14:37:50,8.196s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 14:37:50,28-01-2024 14:37:50,0.180s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 14:37:50,28-01-2024 14:37:50,0.022s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_004,Chrome 121.0.0.0,,,28-01-2024 14:37:50,28-01-2024 14:38:07,17.129s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 14:37:50,28-01-2024 14:37:50,0.013s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 14:37:50,28-01-2024 14:37:51,1.023s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 14:37:51,28-01-2024 14:37:53,1.633s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,28-01-2024 14:37:53,28-01-2024 14:37:55,1.629s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,28-01-2024 14:37:55,28-01-2024 14:37:56,1.768s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,28-01-2024 14:37:56,28-01-2024 14:37:58,1.397s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,28-01-2024 14:37:58,28-01-2024 14:37:59,0.988s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,28-01-2024 14:37:59,28-01-2024 14:37:59,0.552s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals""))",Chrome 121.0.0.0,,,28-01-2024 14:37:59,28-01-2024 14:38:07,7.895s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 14:38:07,28-01-2024 14:38:07,0.182s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 14:38:07,28-01-2024 14:38:07,0.031s,ERROR

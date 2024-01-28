@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Wish_search,Chrome 121.0.0.0,,,26-01-2024 20:36:53,26-01-2024 20:38:53,2m - 0.351s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,26-01-2024 20:36:53,26-01-2024 20:37:23,30.299s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:36:53,26-01-2024 20:36:56,2.208s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:36:56,26-01-2024 20:36:58,2.530s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 20:36:58,26-01-2024 20:36:59,1.148s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 20:36:59,26-01-2024 20:37:07,7.199s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,26-01-2024 20:37:07,26-01-2024 20:37:17,10.341s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,26-01-2024 20:37:17,26-01-2024 20:37:23,6.153s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 20:37:23,26-01-2024 20:37:23,0.354s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,26-01-2024 20:37:23,26-01-2024 20:37:44,21.103s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:37:23,26-01-2024 20:37:25,1.267s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:37:25,26-01-2024 20:37:27,2.449s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 20:37:27,26-01-2024 20:37:28,1.181s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 20:37:28,26-01-2024 20:37:34,5.562s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,26-01-2024 20:37:34,26-01-2024 20:37:40,6.291s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,26-01-2024 20:37:40,26-01-2024 20:37:44,3.898s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 20:37:44,26-01-2024 20:37:44,0.377s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,26-01-2024 20:37:45,26-01-2024 20:38:07,22.980s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:37:45,26-01-2024 20:37:46,1.235s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:37:46,26-01-2024 20:37:48,2.360s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 20:37:48,26-01-2024 20:37:49,1.066s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 20:37:49,26-01-2024 20:37:55,5.469s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,26-01-2024 20:37:55,26-01-2024 20:38:03,7.904s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,26-01-2024 20:38:03,26-01-2024 20:38:07,4.603s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 20:38:07,26-01-2024 20:38:07,0.318s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 20:38:08,26-01-2024 20:38:18,10.068s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:38:08,26-01-2024 20:38:09,1.255s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:38:09,26-01-2024 20:38:11,1.691s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 20:38:11,26-01-2024 20:38:12,1.080s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 20:38:12,26-01-2024 20:38:17,5.608s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 20:38:17,26-01-2024 20:38:18,0.342s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 20:38:18,26-01-2024 20:38:29,11.661s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:38:18,26-01-2024 20:38:19,1.157s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:38:19,26-01-2024 20:38:21,2.647s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 20:38:21,26-01-2024 20:38:22,1.075s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 20:38:22,26-01-2024 20:38:29,6.533s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 20:38:29,26-01-2024 20:38:29,0.231s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 20:38:29,26-01-2024 20:38:53,23.886s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:38:29,26-01-2024 20:38:30,1.173s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:38:30,26-01-2024 20:38:45,14.310s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 20:38:45,26-01-2024 20:38:47,2.650s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 20:38:47,26-01-2024 20:38:53,5.456s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 20:38:53,26-01-2024 20:38:53,0.282s,PASSED

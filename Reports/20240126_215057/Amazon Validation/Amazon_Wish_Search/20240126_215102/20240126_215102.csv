@@ -1,0 +1,99 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Wish_Search,Chrome 121.0.0.0,,,26-01-2024 21:59:27,26-01-2024 22:02:54,3m - 27.051s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 21:59:27,26-01-2024 21:59:41,13.544s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 21:59:28,26-01-2024 21:59:30,2.234s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 21:59:30,26-01-2024 21:59:33,2.630s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 21:59:33,26-01-2024 21:59:34,1.330s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 21:59:34,26-01-2024 21:59:41,6.727s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 21:59:41,26-01-2024 21:59:41,0.323s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 21:59:41,26-01-2024 22:00:11,29.945s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 21:59:41,26-01-2024 21:59:43,1.405s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 21:59:43,26-01-2024 21:59:45,2.397s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 21:59:45,26-01-2024 22:00:04,19.376s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:00:04,26-01-2024 22:00:11,6.402s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:00:11,26-01-2024 22:00:11,0.296s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 22:00:11,26-01-2024 22:00:23,11.441s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:00:11,26-01-2024 22:00:13,1.346s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:00:13,26-01-2024 22:00:15,2.520s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:00:15,26-01-2024 22:00:16,1.057s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:00:16,26-01-2024 22:00:22,6.210s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:00:22,26-01-2024 22:00:23,0.224s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 22:00:23,26-01-2024 22:00:34,11.411s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:00:23,26-01-2024 22:00:24,1.236s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:00:24,26-01-2024 22:00:26,2.162s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:00:26,26-01-2024 22:00:28,2.114s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:00:28,26-01-2024 22:00:34,5.599s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:00:34,26-01-2024 22:00:34,0.261s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 22:00:34,26-01-2024 22:00:46,12.037s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:00:34,26-01-2024 22:00:35,1.373s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:00:35,26-01-2024 22:00:38,2.582s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:00:38,26-01-2024 22:00:39,1.241s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:00:39,26-01-2024 22:00:46,6.545s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:00:46,26-01-2024 22:00:46,0.249s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 22:00:46,26-01-2024 22:01:00,13.523s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:00:46,26-01-2024 22:00:47,1.231s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:00:47,26-01-2024 22:00:49,1.779s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:00:49,26-01-2024 22:00:53,3.466s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:00:53,26-01-2024 22:00:59,6.720s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:00:59,26-01-2024 22:01:00,0.303s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 22:01:00,26-01-2024 22:01:13,12.990s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:01:00,26-01-2024 22:01:01,1.236s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:01:01,26-01-2024 22:01:04,2.809s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:01:04,26-01-2024 22:01:05,1.177s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:01:05,26-01-2024 22:01:12,7.471s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:01:12,26-01-2024 22:01:13,0.264s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 22:01:13,26-01-2024 22:01:24,11.748s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:01:13,26-01-2024 22:01:14,1.388s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:01:14,26-01-2024 22:01:17,2.613s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:01:17,26-01-2024 22:01:19,2.278s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:01:19,26-01-2024 22:01:24,5.147s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:01:24,26-01-2024 22:01:24,0.266s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 22:01:24,26-01-2024 22:01:36,11.522s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:01:24,26-01-2024 22:01:26,1.185s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:01:26,26-01-2024 22:01:28,2.554s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:01:28,26-01-2024 22:01:29,1.059s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:01:29,26-01-2024 22:01:36,6.509s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:01:36,26-01-2024 22:01:36,0.193s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Chrome 121.0.0.0,,,26-01-2024 22:01:36,26-01-2024 22:01:50,14.241s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:01:36,26-01-2024 22:01:37,1.312s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:01:37,26-01-2024 22:01:40,2.922s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:01:40,26-01-2024 22:01:43,2.900s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:01:43,26-01-2024 22:01:50,6.781s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:01:50,26-01-2024 22:01:50,0.302s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,26-01-2024 22:01:50,26-01-2024 22:02:14,24.021s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:01:50,26-01-2024 22:01:51,1.182s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:01:51,26-01-2024 22:01:54,2.469s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:01:54,26-01-2024 22:01:57,2.956s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:01:57,26-01-2024 22:02:04,6.814s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,26-01-2024 22:02:04,26-01-2024 22:02:11,6.845s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,26-01-2024 22:02:11,26-01-2024 22:02:14,3.318s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:02:14,26-01-2024 22:02:14,0.328s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,26-01-2024 22:02:14,26-01-2024 22:02:35,20.422s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:02:14,26-01-2024 22:02:16,1.411s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:02:16,26-01-2024 22:02:18,2.616s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:02:18,26-01-2024 22:02:19,1.175s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:02:19,26-01-2024 22:02:25,5.319s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,26-01-2024 22:02:25,26-01-2024 22:02:30,4.937s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,26-01-2024 22:02:30,26-01-2024 22:02:34,4.641s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:02:34,26-01-2024 22:02:35,0.300s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,26-01-2024 22:02:35,26-01-2024 22:02:54,19.647s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 22:02:35,26-01-2024 22:02:36,1.239s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 22:02:36,26-01-2024 22:02:38,1.772s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,26-01-2024 22:02:38,26-01-2024 22:02:39,1.304s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 22:02:39,26-01-2024 22:02:46,6.573s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,26-01-2024 22:02:46,26-01-2024 22:02:51,5.256s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,26-01-2024 22:02:51,26-01-2024 22:02:54,3.219s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 22:02:54,26-01-2024 22:02:54,0.261s,PASSED

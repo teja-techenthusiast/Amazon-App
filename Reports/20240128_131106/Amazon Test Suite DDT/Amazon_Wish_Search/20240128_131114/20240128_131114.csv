@@ -1,0 +1,125 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Wish_Search,Chrome 121.0.0.0,,,28-01-2024 13:43:38,28-01-2024 13:47:56,4m - 17.711s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:43:38,28-01-2024 13:43:50,11.794s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:43:38,28-01-2024 13:43:38,0.362s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:43:38,28-01-2024 13:43:40,1.592s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:43:40,28-01-2024 13:43:43,2.591s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:43:43,28-01-2024 13:43:44,1.150s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:43:44,28-01-2024 13:43:49,5.685s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:43:49,28-01-2024 13:43:50,0.228s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:43:50,28-01-2024 13:43:50,0.078s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:43:50,28-01-2024 13:44:05,14.865s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:43:50,28-01-2024 13:43:50,0.021s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:43:50,28-01-2024 13:43:51,1.132s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:43:51,28-01-2024 13:43:54,2.498s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:43:54,28-01-2024 13:43:57,3.499s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:43:57,28-01-2024 13:44:04,7.398s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:44:04,28-01-2024 13:44:05,0.225s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:05,28-01-2024 13:44:05,0.057s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:44:05,28-01-2024 13:44:15,9.808s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:05,28-01-2024 13:44:05,0.021s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:44:05,28-01-2024 13:44:06,1.038s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:44:06,28-01-2024 13:44:07,1.603s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:44:07,28-01-2024 13:44:09,1.247s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:44:09,28-01-2024 13:44:14,5.644s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:44:14,28-01-2024 13:44:15,0.199s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:15,28-01-2024 13:44:15,0.033s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:44:15,28-01-2024 13:44:26,11.000s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:15,28-01-2024 13:44:15,0.018s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:44:15,28-01-2024 13:44:16,1.046s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:44:16,28-01-2024 13:44:18,2.491s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:44:18,28-01-2024 13:44:19,1.145s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:44:19,28-01-2024 13:44:25,6.032s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:44:25,28-01-2024 13:44:26,0.201s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:26,28-01-2024 13:44:26,0.040s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:44:26,28-01-2024 13:44:36,10.184s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:26,28-01-2024 13:44:26,0.025s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:44:26,28-01-2024 13:44:27,1.000s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:44:27,28-01-2024 13:44:29,2.204s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:44:29,28-01-2024 13:44:30,1.112s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:44:30,28-01-2024 13:44:35,5.522s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:44:35,28-01-2024 13:44:36,0.256s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:36,28-01-2024 13:44:36,0.042s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:44:36,28-01-2024 13:44:50,13.769s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:36,28-01-2024 13:44:36,0.011s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:44:36,28-01-2024 13:44:37,1.032s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:44:37,28-01-2024 13:44:39,2.177s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:44:39,28-01-2024 13:44:41,2.462s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:44:41,28-01-2024 13:44:49,7.795s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:44:49,28-01-2024 13:44:50,0.237s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:50,28-01-2024 13:44:50,0.036s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:44:50,28-01-2024 13:44:58,8.629s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:50,28-01-2024 13:44:50,0.014s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:44:50,28-01-2024 13:44:51,1.052s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:44:51,28-01-2024 13:44:52,1.555s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:44:52,28-01-2024 13:44:53,0.931s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:44:53,28-01-2024 13:44:58,4.829s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:44:58,28-01-2024 13:44:58,0.193s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:58,28-01-2024 13:44:58,0.033s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:44:58,28-01-2024 13:45:07,8.923s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:44:58,28-01-2024 13:44:58,0.009s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:44:58,28-01-2024 13:44:59,1.096s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:44:59,28-01-2024 13:45:01,1.497s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:45:01,28-01-2024 13:45:02,1.132s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:45:02,28-01-2024 13:45:07,4.921s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:45:07,28-01-2024 13:45:07,0.205s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:45:07,28-01-2024 13:45:07,0.043s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:45:07,28-01-2024 13:45:18,10.654s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:45:07,28-01-2024 13:45:07,0.012s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:45:07,28-01-2024 13:45:08,1.033s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:45:08,28-01-2024 13:45:10,2.231s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:45:10,28-01-2024 13:45:12,1.251s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:45:12,28-01-2024 13:45:18,5.846s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:45:18,28-01-2024 13:45:18,0.221s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:45:18,28-01-2024 13:45:18,0.034s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_003,Chrome 121.0.0.0,,,28-01-2024 13:45:18,28-01-2024 13:45:28,9.698s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:45:18,28-01-2024 13:45:18,0.014s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:45:18,28-01-2024 13:45:19,1.016s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:45:19,28-01-2024 13:45:20,1.585s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:45:20,28-01-2024 13:45:22,1.101s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:45:22,28-01-2024 13:45:27,5.721s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:45:27,28-01-2024 13:45:27,0.201s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:45:27,28-01-2024 13:45:28,0.037s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_05,Chrome 121.0.0.0,,,28-01-2024 13:45:28,28-01-2024 13:45:51,23.771s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:45:28,28-01-2024 13:45:28,0.010s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:45:28,28-01-2024 13:45:29,0.976s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:45:29,28-01-2024 13:45:31,2.634s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/input_field-keywords (1)""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:45:31,28-01-2024 13:45:32,1.197s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:45:32,28-01-2024 13:45:38,5.980s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,28-01-2024 13:45:38,28-01-2024 13:45:49,10.206s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,28-01-2024 13:45:49,28-01-2024 13:45:51,2.384s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:45:51,28-01-2024 13:45:51,0.282s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:45:51,28-01-2024 13:45:51,0.035s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_05,Chrome 121.0.0.0,,,28-01-2024 13:47:03,28-01-2024 13:47:29,25.971s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:47:03,28-01-2024 13:47:04,0.352s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:47:04,28-01-2024 13:47:05,1.151s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:47:05,28-01-2024 13:47:06,1.657s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/input_field-keywords (1)""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:47:06,28-01-2024 13:47:08,2.116s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:47:08,28-01-2024 13:47:15,6.364s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,28-01-2024 13:47:15,28-01-2024 13:47:24,8.829s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,28-01-2024 13:47:24,28-01-2024 13:47:29,5.120s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:47:29,28-01-2024 13:47:29,0.330s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:47:29,28-01-2024 13:47:29,0.035s,ERROR
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_05,Chrome 121.0.0.0,,,28-01-2024 13:47:29,28-01-2024 13:47:56,26.396s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,28-01-2024 13:47:29,28-01-2024 13:47:29,0.010s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,28-01-2024 13:47:29,28-01-2024 13:47:30,1.175s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,28-01-2024 13:47:30,28-01-2024 13:47:33,2.443s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/input_field-keywords (1)""), ""umbrella"")",Chrome 121.0.0.0,,,28-01-2024 13:47:33,28-01-2024 13:47:34,0.942s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,28-01-2024 13:47:34,28-01-2024 13:47:38,4.701s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com. Spend less. Smile more/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,28-01-2024 13:47:38,28-01-2024 13:47:48,9.934s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,28-01-2024 13:47:48,28-01-2024 13:47:55,6.864s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,28-01-2024 13:47:55,28-01-2024 13:47:55,0.275s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,28-01-2024 13:47:55,28-01-2024 13:47:56,0.031s,ERROR

@@ -1,0 +1,99 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Wish_Search,Edge Chromium 120,,,26-01-2024 22:32:09,26-01-2024 22:37:49,5m - 39.524s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:32:10,26-01-2024 22:32:26,16.490s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:32:10,26-01-2024 22:32:14,4.413s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:32:14,26-01-2024 22:32:17,2.546s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:32:17,26-01-2024 22:32:18,1.256s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:32:18,26-01-2024 22:32:26,7.459s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:32:26,26-01-2024 22:32:26,0.489s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:32:26,26-01-2024 22:32:42,16.187s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:32:26,26-01-2024 22:32:29,3.191s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:32:29,26-01-2024 22:32:33,3.114s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:32:33,26-01-2024 22:32:36,3.083s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:32:36,26-01-2024 22:32:42,6.357s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:32:42,26-01-2024 22:32:42,0.388s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:32:42,26-01-2024 22:32:58,15.511s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:32:42,26-01-2024 22:32:45,3.058s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:32:45,26-01-2024 22:32:48,2.520s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:32:48,26-01-2024 22:32:50,2.180s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:32:50,26-01-2024 22:32:58,7.358s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:32:58,26-01-2024 22:32:58,0.372s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:32:58,26-01-2024 22:33:12,14.026s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:32:58,26-01-2024 22:33:01,2.964s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:33:01,26-01-2024 22:33:03,2.262s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:33:03,26-01-2024 22:33:04,1.230s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:33:04,26-01-2024 22:33:12,7.181s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:33:12,26-01-2024 22:33:12,0.361s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:33:12,26-01-2024 22:33:28,16.182s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:33:12,26-01-2024 22:33:15,2.887s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:33:15,26-01-2024 22:33:17,2.229s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:33:17,26-01-2024 22:33:19,2.218s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:33:19,26-01-2024 22:33:28,8.432s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:33:28,26-01-2024 22:33:28,0.392s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:33:28,26-01-2024 22:33:40,11.826s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:33:28,26-01-2024 22:33:31,2.854s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:33:31,26-01-2024 22:33:33,1.580s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:33:33,26-01-2024 22:33:34,1.190s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:33:34,26-01-2024 22:33:40,5.828s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:33:40,26-01-2024 22:33:40,0.352s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:34:28,26-01-2024 22:34:42,14.650s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:34:28,26-01-2024 22:34:31,3.241s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:34:31,26-01-2024 22:34:34,2.571s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:34:34,26-01-2024 22:34:35,1.213s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:34:35,26-01-2024 22:34:42,7.268s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:34:42,26-01-2024 22:34:42,0.332s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:34:42,26-01-2024 22:34:55,12.676s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:34:42,26-01-2024 22:34:45,2.914s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:34:45,26-01-2024 22:34:48,2.477s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:34:48,26-01-2024 22:34:49,1.112s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:34:49,26-01-2024 22:34:55,5.795s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:34:55,26-01-2024 22:34:55,0.360s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:34:55,26-01-2024 22:35:08,13.197s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:34:55,26-01-2024 22:34:58,2.902s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:34:58,26-01-2024 22:34:59,1.049s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:34:59,26-01-2024 22:35:02,2.515s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:35:02,26-01-2024 22:35:08,6.363s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:35:08,26-01-2024 22:35:08,0.349s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Search_02,Edge Chromium 120,,,26-01-2024 22:35:08,26-01-2024 22:35:23,15.111s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:35:08,26-01-2024 22:35:12,3.219s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:35:12,26-01-2024 22:35:14,2.339s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:35:14,26-01-2024 22:35:16,2.222s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:35:16,26-01-2024 22:35:23,6.866s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:35:23,26-01-2024 22:35:23,0.442s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Edge Chromium 120,,,26-01-2024 22:35:23,26-01-2024 22:35:47,23.754s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:35:24,26-01-2024 22:35:26,2.899s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:35:26,26-01-2024 22:35:29,2.967s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:35:29,26-01-2024 22:35:32,2.530s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:35:32,26-01-2024 22:35:39,6.985s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Edge Chromium 120,,,26-01-2024 22:35:39,26-01-2024 22:35:45,5.837s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Edge Chromium 120,,,26-01-2024 22:35:45,26-01-2024 22:35:47,2.025s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:35:47,26-01-2024 22:35:47,0.397s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Edge Chromium 120,,,26-01-2024 22:35:47,26-01-2024 22:36:36,48.393s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:35:47,26-01-2024 22:35:50,2.928s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:35:50,26-01-2024 22:35:52,1.855s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:35:52,26-01-2024 22:36:19,26.989s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:36:19,26-01-2024 22:36:26,7.105s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Edge Chromium 120,,,26-01-2024 22:36:26,26-01-2024 22:36:32,5.736s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Edge Chromium 120,,,26-01-2024 22:36:32,26-01-2024 22:36:35,3.282s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:36:35,26-01-2024 22:36:36,0.440s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Edge Chromium 120,,,26-01-2024 22:37:26,26-01-2024 22:37:49,23.246s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,26-01-2024 22:37:26,26-01-2024 22:37:29,3.268s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Edge Chromium 120,,,26-01-2024 22:37:29,26-01-2024 22:37:32,2.746s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Edge Chromium 120,,,26-01-2024 22:37:32,26-01-2024 22:37:33,1.125s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Edge Chromium 120,,,26-01-2024 22:37:33,26-01-2024 22:37:40,6.633s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Edge Chromium 120,,,26-01-2024 22:37:40,26-01-2024 22:37:45,5.399s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Edge Chromium 120,,,26-01-2024 22:37:45,26-01-2024 22:37:49,3.630s,PASSED
+closeBrowser(),Edge Chromium 120,,,26-01-2024 22:37:49,26-01-2024 22:37:49,0.426s,PASSED

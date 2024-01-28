@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Authentication_OR/Page_Amazon.com  umbrella/img_s-image",
+      "brokenLocator": "//div[@id\u003d\u0027search\u0027]/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div/div/span/a/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/a/div/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240127_131110/Amazon_TL/Amazon_wishlist_TL/20240127_131110/Object Repository/Amazon_Authentication_OR/Page_Amazon.com  umbrella/img_s-image_position.png"
+    }
+  ]
+}

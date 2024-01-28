@@ -1,0 +1,82 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon Search,Chrome 121.0.0.0,,,25-01-2024 20:04:00,25-01-2024 20:06:54,2m - 54.084s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:04:01,25-01-2024 20:04:19,18.655s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:04:01,25-01-2024 20:04:05,3.505s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:04:05,25-01-2024 20:04:07,2.506s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:04:07,25-01-2024 20:04:11,3.580s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:04:11,25-01-2024 20:04:12,1.250s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:04:12,25-01-2024 20:04:19,6.633s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:04:19,25-01-2024 20:04:19,0.667s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:04:19,25-01-2024 20:04:32,12.454s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:04:19,25-01-2024 20:04:21,1.514s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:04:21,25-01-2024 20:04:24,2.642s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:04:24,25-01-2024 20:04:26,2.324s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:04:26,25-01-2024 20:04:27,1.420s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:04:27,25-01-2024 20:04:31,4.024s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:04:31,25-01-2024 20:04:32,0.452s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:04:32,25-01-2024 20:04:47,15.455s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:04:32,25-01-2024 20:04:33,1.553s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:04:33,25-01-2024 20:04:36,2.340s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:04:36,25-01-2024 20:04:38,2.035s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:04:38,25-01-2024 20:04:40,2.101s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:04:40,25-01-2024 20:04:47,7.039s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:04:47,25-01-2024 20:04:47,0.355s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:04:47,25-01-2024 20:05:01,13.937s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:04:47,25-01-2024 20:04:49,1.473s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:04:49,25-01-2024 20:04:49,0.375s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:04:49,25-01-2024 20:04:53,3.686s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:04:53,25-01-2024 20:04:54,1.496s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:04:54,25-01-2024 20:05:01,6.511s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:05:01,25-01-2024 20:05:01,0.350s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:05:01,25-01-2024 20:05:15,13.480s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:05:01,25-01-2024 20:05:03,1.561s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:05:03,25-01-2024 20:05:05,1.642s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:05:05,25-01-2024 20:05:07,2.431s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:05:07,25-01-2024 20:05:09,1.731s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:05:09,25-01-2024 20:05:14,5.703s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:05:14,25-01-2024 20:05:15,0.385s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:05:15,25-01-2024 20:05:30,14.926s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:05:15,25-01-2024 20:05:16,1.571s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:05:16,25-01-2024 20:05:18,1.557s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:05:18,25-01-2024 20:05:20,2.489s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:05:20,25-01-2024 20:05:23,2.215s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:05:23,25-01-2024 20:05:29,6.758s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:05:29,25-01-2024 20:05:30,0.314s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:05:30,25-01-2024 20:05:44,14.529s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:05:30,25-01-2024 20:05:32,1.800s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:05:32,25-01-2024 20:05:34,1.879s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:05:34,25-01-2024 20:05:36,2.177s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:05:36,25-01-2024 20:05:38,2.111s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:05:38,25-01-2024 20:05:44,6.197s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:05:44,25-01-2024 20:05:44,0.338s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:05:52,25-01-2024 20:06:17,24.383s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:05:52,25-01-2024 20:05:54,1.831s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:05:54,25-01-2024 20:05:56,1.632s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:05:56,25-01-2024 20:06:09,12.881s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:06:09,25-01-2024 20:06:10,1.731s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:06:10,25-01-2024 20:06:16,5.963s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:06:16,25-01-2024 20:06:17,0.311s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:06:17,25-01-2024 20:06:32,15.024s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:06:17,25-01-2024 20:06:18,1.281s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:06:18,25-01-2024 20:06:20,1.722s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:06:20,25-01-2024 20:06:22,2.363s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:06:22,25-01-2024 20:06:25,2.387s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:06:25,25-01-2024 20:06:32,6.923s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:06:32,25-01-2024 20:06:32,0.303s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Sarch_02,Chrome 121.0.0.0,,,25-01-2024 20:06:32,25-01-2024 20:06:54,22.300s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:06:32,25-01-2024 20:06:33,1.496s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:06:33,25-01-2024 20:06:35,1.291s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), ""search-alias=electronics-intl-ship"", true)",Chrome 121.0.0.0,,,25-01-2024 20:06:35,25-01-2024 20:06:47,12.341s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Alexa"")",Chrome 121.0.0.0,,,25-01-2024 20:06:47,25-01-2024 20:06:48,0.956s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:06:48,25-01-2024 20:06:54,5.814s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:06:54,25-01-2024 20:06:54,0.368s,PASSED

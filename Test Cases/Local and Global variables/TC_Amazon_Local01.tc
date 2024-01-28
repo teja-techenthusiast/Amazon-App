@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Local01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55c1fccb-ea68-45f1-8ae2-d31a50b8d9c7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87f186dd-50b8-4cfc-a54b-330e935bd110</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76237621-1b60-4b14-b0a1-a8c598f61acd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.email</defaultValue>
+      <description></description>
+      <id>87f186dd-50b8-4cfc-a54b-330e935bd110</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.item</defaultValue>
+      <description></description>
+      <id>76237621-1b60-4b14-b0a1-a8c598f61acd</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>

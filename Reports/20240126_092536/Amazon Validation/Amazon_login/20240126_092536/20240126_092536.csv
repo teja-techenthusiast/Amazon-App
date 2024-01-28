@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_login,,,,26-01-2024 09:25:41,26-01-2024 09:25:44,3.051s,FAILED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Login_01,,,,26-01-2024 09:25:42,26-01-2024 09:25:42,0.199s,FAILED
+"openBrowser("""")",,,,26-01-2024 09:25:42,26-01-2024 09:25:42,0.092s,FAILED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Login_01,,,,26-01-2024 09:25:43,26-01-2024 09:25:43,0.135s,FAILED
+"openBrowser("""")",,,,26-01-2024 09:25:43,26-01-2024 09:25:43,0.085s,FAILED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Login_01,,,,26-01-2024 09:25:44,26-01-2024 09:25:44,0.035s,FAILED
+"openBrowser("""")",,,,26-01-2024 09:25:44,26-01-2024 09:25:44,0.015s,FAILED

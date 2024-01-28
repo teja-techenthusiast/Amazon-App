@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon wish,Chrome 121.0.0.0,,,25-01-2024 20:13:55,25-01-2024 20:15:37,1m - 42.125s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,25-01-2024 20:13:55,25-01-2024 20:14:20,25.355s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:13:55,25-01-2024 20:13:57,2.149s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:13:57,25-01-2024 20:14:00,2.780s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,25-01-2024 20:14:00,25-01-2024 20:14:02,2.286s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:14:02,25-01-2024 20:14:08,6.076s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,25-01-2024 20:14:08,25-01-2024 20:14:15,6.988s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,25-01-2024 20:14:15,25-01-2024 20:14:20,4.381s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:14:20,25-01-2024 20:14:20,0.393s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,25-01-2024 20:14:20,25-01-2024 20:15:10,49.762s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:14:20,25-01-2024 20:14:21,1.162s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:14:21,25-01-2024 20:14:24,2.353s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,25-01-2024 20:14:24,25-01-2024 20:14:25,1.165s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:14:25,25-01-2024 20:14:30,5.344s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,25-01-2024 20:14:30,25-01-2024 20:15:06,35.863s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,25-01-2024 20:15:06,25-01-2024 20:15:10,3.506s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:15:10,25-01-2024 20:15:10,0.316s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,25-01-2024 20:15:10,25-01-2024 20:15:37,26.707s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 20:15:10,25-01-2024 20:15:11,1.164s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 20:15:11,25-01-2024 20:15:13,1.691s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,25-01-2024 20:15:13,25-01-2024 20:15:22,9.332s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,25-01-2024 20:15:22,25-01-2024 20:15:28,5.449s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,25-01-2024 20:15:28,25-01-2024 20:15:33,5.814s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List""))",Chrome 121.0.0.0,,,25-01-2024 20:15:33,25-01-2024 20:15:36,2.953s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 20:15:36,25-01-2024 20:15:37,0.279s,PASSED

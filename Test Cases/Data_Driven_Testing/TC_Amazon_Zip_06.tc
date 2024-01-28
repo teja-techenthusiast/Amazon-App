@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Zip_06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a585d83f-ce95-4ae9-a89a-e352cc32f0f3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>403725fd-908d-4b51-8986-5959377e9e8b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>403725fd-908d-4b51-8986-5959377e9e8b</id>
+      <masked>false</masked>
+      <name>zipcode</name>
+   </variable>
+</TestCaseEntity>

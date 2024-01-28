@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in",
+      "brokenLocator": "//span[@id\u003d\u0027nav-link-accountList-nav-line-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[@id\u003d\u0027nav-link-accountList-nav-line-1\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240126_225322/Amazon Test Suite/Amazon_Deals_Zipcode/20240126_225323/Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in_attributes.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Amazon.com  umbrella/img_s-image",
+      "brokenLocator": "//div[@id\u003d\u0027search\u0027]/div/div/div/span/div/div[2]/div/div/div/div/span/div/div/div/span/a/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a/div/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_201351/Amazon Validation/Amazon wish/20240125_201351/Object Repository/Page_Amazon.com  umbrella/img_s-image_position.png"
+    }
+  ]
+}

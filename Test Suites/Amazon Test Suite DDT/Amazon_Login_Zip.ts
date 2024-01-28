@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Amazon_Login_Zip</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>889ac7f9-7784-4c94-b6e1-e63241fcd7e5</testSuiteGuid>
+   <testCaseLink>
+      <guid>6f782576-4abd-4752-bb16-c355c8a6b6df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data_Driven_Testing/TC_Amazon_Login_01</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ac585cb9-587d-402a-be70-e9f2e58c456f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Driven Test data/Amazon Login</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c6e8163d-342a-4eec-b006-abe0e9ab85ab</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Driven Test data/Amazon_Zip</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ac585cb9-587d-402a-be70-e9f2e58c456f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>c87efbff-53c1-4247-9e24-6510753ac66b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ac585cb9-587d-402a-be70-e9f2e58c456f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>ad4de220-c4c8-4781-b1a7-49eeaa658769</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c5b3caa7-e356-4f0e-a262-57b85e399162</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d34c395f-adc4-4f34-b7aa-ec0f23baa9bb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Driven Test data/Amazon Login</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>92f13297-043b-4154-9bdd-7cc41d0aa492</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Driven Test data/Amazon_Zip</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>92f13297-043b-4154-9bdd-7cc41d0aa492</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>zipcode</value>
+         <variableId>403725fd-908d-4b51-8986-5959377e9e8b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

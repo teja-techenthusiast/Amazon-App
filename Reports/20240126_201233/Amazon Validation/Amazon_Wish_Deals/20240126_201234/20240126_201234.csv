@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Wish_Deals,Chrome 121.0.0.0,,,26-01-2024 20:12:38,26-01-2024 20:18:33,5m - 55.092s,FAILED
+,,,,,,,
+Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03,Chrome 121.0.0.0,,,26-01-2024 20:14:44,26-01-2024 20:15:26,42.093s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:14:44,26-01-2024 20:14:46,1.445s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:14:46,26-01-2024 20:14:48,2.347s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon.com  umbrella/input_field-keywords""), item)",Chrome 121.0.0.0,,,26-01-2024 20:14:48,26-01-2024 20:14:51,3.421s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,26-01-2024 20:14:51,26-01-2024 20:14:54,2.969s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,26-01-2024 20:14:54,26-01-2024 20:15:26,31.864s,FAILED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05,Chrome 121.0.0.0,,,26-01-2024 20:16:10,26-01-2024 20:16:28,17.387s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:16:10,26-01-2024 20:16:12,1.260s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:16:12,26-01-2024 20:16:14,2.007s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,26-01-2024 20:16:14,26-01-2024 20:16:16,2.267s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,26-01-2024 20:16:16,26-01-2024 20:16:19,2.747s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,26-01-2024 20:16:19,26-01-2024 20:16:21,2.004s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,26-01-2024 20:16:21,26-01-2024 20:16:22,1.027s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,26-01-2024 20:16:22,26-01-2024 20:16:22,0.470s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon  Deals/a_Todays Deals""))",Chrome 121.0.0.0,,,26-01-2024 20:16:22,26-01-2024 20:16:28,5.586s,FAILED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05,Chrome 121.0.0.0,,,26-01-2024 20:17:11,26-01-2024 20:17:29,17.150s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:17:11,26-01-2024 20:17:13,1.408s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:17:13,26-01-2024 20:17:15,2.460s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,26-01-2024 20:17:15,26-01-2024 20:17:18,2.305s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,26-01-2024 20:17:18,26-01-2024 20:17:20,2.325s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,26-01-2024 20:17:20,26-01-2024 20:17:21,1.472s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,26-01-2024 20:17:21,26-01-2024 20:17:22,1.006s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,26-01-2024 20:17:22,26-01-2024 20:17:23,0.340s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon  Deals/a_Todays Deals""))",Chrome 121.0.0.0,,,26-01-2024 20:17:23,26-01-2024 20:17:29,5.820s,FAILED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05,Chrome 121.0.0.0,,,26-01-2024 20:18:17,26-01-2024 20:18:33,16.501s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 20:18:17,26-01-2024 20:18:18,1.375s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 20:18:18,26-01-2024 20:18:22,4.418s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,26-01-2024 20:18:22,26-01-2024 20:18:25,2.407s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,26-01-2024 20:18:25,26-01-2024 20:18:26,1.321s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,26-01-2024 20:18:26,26-01-2024 20:18:28,1.411s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,26-01-2024 20:18:28,26-01-2024 20:18:29,0.997s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,26-01-2024 20:18:29,26-01-2024 20:18:29,0.349s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Todays Deals_OR/Page_Amazon  Deals/a_Todays Deals""))",Chrome 121.0.0.0,,,26-01-2024 20:18:29,26-01-2024 20:18:33,4.207s,FAILED

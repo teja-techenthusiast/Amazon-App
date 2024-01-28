@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Zip,Chrome 121.0.0.0,,,26-01-2024 18:23:42,26-01-2024 18:25:00,1m - 18.518s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06,Chrome 121.0.0.0,,,26-01-2024 18:23:42,26-01-2024 18:24:07,24.373s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 18:23:43,26-01-2024 18:23:46,3.128s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 18:23:46,26-01-2024 18:23:49,3.276s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,26-01-2024 18:23:49,26-01-2024 18:23:52,3.196s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,26-01-2024 18:23:52,26-01-2024 18:23:54,1.363s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,26-01-2024 18:23:54,26-01-2024 18:23:56,1.784s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,26-01-2024 18:23:56,26-01-2024 18:23:57,1.224s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,26-01-2024 18:23:57,26-01-2024 18:23:57,0.550s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to""))",Chrome 121.0.0.0,,,26-01-2024 18:23:57,26-01-2024 18:24:03,5.648s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput""), ""10005"")",Chrome 121.0.0.0,,,26-01-2024 18:24:03,26-01-2024 18:24:05,2.119s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input""))",Chrome 121.0.0.0,,,26-01-2024 18:24:05,26-01-2024 18:24:06,0.511s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 18:24:06,26-01-2024 18:24:07,1.021s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06,Chrome 121.0.0.0,,,26-01-2024 18:24:07,26-01-2024 18:24:28,21.668s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 18:24:07,26-01-2024 18:24:09,2.113s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 18:24:09,26-01-2024 18:24:12,3.032s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,26-01-2024 18:24:12,26-01-2024 18:24:15,2.959s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,26-01-2024 18:24:15,26-01-2024 18:24:16,1.305s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,26-01-2024 18:24:16,26-01-2024 18:24:18,1.573s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,26-01-2024 18:24:18,26-01-2024 18:24:19,1.025s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,26-01-2024 18:24:19,26-01-2024 18:24:19,0.435s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to""))",Chrome 121.0.0.0,,,26-01-2024 18:24:19,26-01-2024 18:24:24,4.372s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput""), ""10005"")",Chrome 121.0.0.0,,,26-01-2024 18:24:24,26-01-2024 18:24:27,3.465s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input""))",Chrome 121.0.0.0,,,26-01-2024 18:24:27,26-01-2024 18:24:28,0.480s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 18:24:28,26-01-2024 18:24:28,0.740s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06,Chrome 121.0.0.0,,,26-01-2024 18:24:28,26-01-2024 18:25:00,31.900s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,26-01-2024 18:24:29,26-01-2024 18:24:30,1.898s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,26-01-2024 18:24:30,26-01-2024 18:24:33,2.690s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,26-01-2024 18:24:33,26-01-2024 18:24:50,17.119s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,26-01-2024 18:24:50,26-01-2024 18:24:52,1.586s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,26-01-2024 18:24:52,26-01-2024 18:24:53,1.623s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,26-01-2024 18:24:53,26-01-2024 18:24:54,1.016s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,26-01-2024 18:24:54,26-01-2024 18:24:55,0.564s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to""))",Chrome 121.0.0.0,,,26-01-2024 18:24:55,26-01-2024 18:24:58,2.654s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput""), ""10005"")",Chrome 121.0.0.0,,,26-01-2024 18:24:58,26-01-2024 18:24:59,1.494s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input""))",Chrome 121.0.0.0,,,26-01-2024 18:24:59,26-01-2024 18:25:00,0.450s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,26-01-2024 18:25:00,26-01-2024 18:25:00,0.718s,PASSED

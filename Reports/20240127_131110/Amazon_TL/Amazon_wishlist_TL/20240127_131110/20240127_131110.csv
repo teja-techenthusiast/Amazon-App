@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_wishlist_TL,Chrome 121.0.0.0,,,27-01-2024 13:11:15,27-01-2024 13:12:42,1m - 27.625s,PASSED
+,,,,,,,
+Test Cases/Local and Global Variables/TC_Amazon_wishlist,Chrome 121.0.0.0,,,27-01-2024 13:11:18,27-01-2024 13:12:42,1m - 23.974s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,27-01-2024 13:11:18,27-01-2024 13:11:19,0.680s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,27-01-2024 13:11:19,27-01-2024 13:11:21,1.454s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,27-01-2024 13:11:21,27-01-2024 13:11:23,2.227s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Authentication_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""umbrella"")",Chrome 121.0.0.0,,,27-01-2024 13:11:23,27-01-2024 13:11:25,2.192s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Authentication_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,27-01-2024 13:11:25,27-01-2024 13:11:31,5.684s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Authentication_OR/Page_Amazon.com  umbrella/img_s-image""))",Chrome 121.0.0.0,,,27-01-2024 13:11:31,27-01-2024 13:12:08,36.679s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,27-01-2024 13:12:08,27-01-2024 13:12:42,34.661s,ERROR

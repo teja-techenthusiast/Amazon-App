@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon TS Collection" time="951.081" tests="23" failures="0" errors="0">
+   <testsuite name="Amazon_Deals_Zipcode" tests="6" failures="0" errors="0" time="158.791" skipped="0" timestamp="26-01-2024T22:53:33" hostname="tejac - LAPTOP-5AA6QQL1" id="Test Suites/Amazon Test Suite/Amazon_Deals_Zipcode">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Deals_Zipcode\\20240126_225323"/>
+         <property name="logFiles" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Deals_Zipcode\\20240126_225323\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="tejac - LAPTOP-5AA6QQL1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.143"/>
+         <property name="sessionId" value="a86e54f022619b3fd1249dd45fd3fb77"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06" time="23.415" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:53:33 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06: Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06
+
+26-01-2024T22:53:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:53:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:53:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:53:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:53:36 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:53:39 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:53:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:53:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:53:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:53:45 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:53:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:53:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:53:46 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:53:47 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:53:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:53:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:53:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to' is clicked on
+
+26-01-2024T22:53:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to' is clicked on
+
+26-01-2024T22:53:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput"), "10005"): Text '10005' is set on object 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput'
+
+26-01-2024T22:53:56 - [MESSAGE][PASSED] - Text '10005' is set on object 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput'
+
+26-01-2024T22:53:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input' is clicked on
+
+26-01-2024T22:53:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input' is clicked on
+
+26-01-2024T22:53:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T22:53:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06" time="19.607" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:53:57 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06: Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06
+
+26-01-2024T22:53:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:53:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:53:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:53:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:53:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:54:01 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:54:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:54:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:54:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:54:05 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:54:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:54:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:54:07 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:54:08 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:54:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:54:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:54:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to' is clicked on
+
+26-01-2024T22:54:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to' is clicked on
+
+26-01-2024T22:54:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput"), "10005"): Text '10005' is set on object 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput'
+
+26-01-2024T22:54:15 - [MESSAGE][PASSED] - Text '10005' is set on object 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput'
+
+26-01-2024T22:54:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input' is clicked on
+
+26-01-2024T22:54:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input' is clicked on
+
+26-01-2024T22:54:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T22:54:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06" time="26.091" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:54:17 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06: Test Cases/Data_Driven_Testing/TC_Amazon_Zip_06
+
+26-01-2024T22:54:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:54:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:54:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:54:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:54:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:54:20 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:54:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:54:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:54:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:54:32 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:54:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:54:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:54:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:54:35 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Location/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:54:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:54:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:54:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to' is clicked on
+
+26-01-2024T22:54:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/span_Deliver to' is clicked on
+
+26-01-2024T22:54:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput"), "10005"): Text '10005' is set on object 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput'
+
+26-01-2024T22:54:42 - [MESSAGE][PASSED] - Text '10005' is set on object 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/inputGLUXZipUpdateInput'
+
+26-01-2024T22:54:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input")): Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input' is clicked on
+
+26-01-2024T22:54:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Location/Page_Amazon.com. Spend less. Smile more/input_a-button-input' is clicked on
+
+26-01-2024T22:54:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T22:54:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05" time="50.468" classname="Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:54:43 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05: Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05
+
+26-01-2024T22:54:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:54:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:54:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:54:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:54:44 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:54:46 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:54:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:55:19 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //span[@id='nav-link-accountList-nav-line-1']'. Please recheck the objects properties to make sure the desired element is located. 
+
+26-01-2024T22:55:19 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in'. Try using Self-healing.
+
+26-01-2024T22:55:20 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '//span[@id='nav-link-accountList-nav-line-1']'.
+
+26-01-2024T22:55:20 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/tejac/git/Amazon-App/Reports/Self-healing/Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in_attributes.png
+
+26-01-2024T22:55:20 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' was broken. Propose an alternative one: '//span[@id='nav-link-accountList-nav-line-1']'.
+
+26-01-2024T22:55:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:55:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:55:23 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:55:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:55:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:55:25 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:55:26 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:55:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:55:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:55:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals' is clicked on
+
+26-01-2024T22:55:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals' is clicked on
+
+26-01-2024T22:55:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T22:55:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05" time="18.086" classname="Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:55:33 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05: Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05
+
+26-01-2024T22:55:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:55:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:55:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:55:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:55:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:55:37 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:55:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:55:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:55:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:55:40 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:55:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:55:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:55:41 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:55:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:55:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:55:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:55:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals' is clicked on
+
+26-01-2024T22:55:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals' is clicked on
+
+26-01-2024T22:55:51 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T22:55:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05" time="20.555" classname="Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:55:51 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05: Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05
+
+26-01-2024T22:55:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:55:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:55:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:55:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:55:53 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:55:55 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:55:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:55:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:55:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:55:59 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:55:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:56:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:56:01 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:56:02 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:56:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:56:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:56:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals")): Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals' is clicked on
+
+26-01-2024T22:56:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Deals_OR/Page_Amazon.com. Spend less. Smile more/a_Todays Deals' is clicked on
+
+26-01-2024T22:56:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T22:56:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-01-2024T22:53:33 - [TEST_SUITE][PASSED] - Amazon_Deals_Zipcode: Test Cases/Data_Driven_Testing/TC_Amazon_TodaysDeals_05]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Amazon_Login_Logout" tests="4" failures="0" errors="0" time="443.595" skipped="0" timestamp="26-01-2024T22:56:18" hostname="tejac - LAPTOP-5AA6QQL1" id="Test Suites/Amazon Test Suite/Amazon_Login_Logout">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Login_Logout\\20240126_225325"/>
+         <property name="logFiles" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Login_Logout\\20240126_225325\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Login_Logout\\20240126_225325\\1706290088567.png, C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Login_Logout\\20240126_225325\\1706290135694.png, C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Login_Logout\\20240126_225325\\1706290184912.png, C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Login_Logout\\20240126_225325\\1706290278689.png, C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Login_Logout\\20240126_225325\\1706290325932.png, C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Login_Logout\\20240126_225325\\1706290375611.png"/>
+         <property name="hostName" value="tejac - LAPTOP-5AA6QQL1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.143"/>
+         <property name="sessionId" value="345c96b3fa557333af6386cae9e30678"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Login_01" time="13.371" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Login_01" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:56:18 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Login_01: Test Cases/Data_Driven_Testing/TC_Amazon_Login_01
+
+26-01-2024T22:56:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:56:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:56:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:56:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:56:20 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:56:23 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:56:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:56:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:56:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:56:27 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:56:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:56:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:56:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:56:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:56:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:56:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:56:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T22:56:31 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04" time="48.036" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:56:31 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04: Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04
+
+26-01-2024T22:56:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:56:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:56:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:56:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:56:33 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:56:35 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:56:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:56:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:56:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:56:38 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:56:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:56:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:56:39 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:56:40 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:56:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:56:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:56:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All' is clicked on
+
+26-01-2024T22:56:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All' is clicked on
+
+26-01-2024T22:56:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on
+
+26-01-2024T22:57:18 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@onclick="$Nav.getNow('signInRedirect')('nav_em_hd_re_signin', '/gp/flex/sign-out.html?action=sign-out&path=%2Fgp%2Fhomepage.html%3F_encoding%3DUTF8%26ref_%3Dnavm_em_signin&signIn=1&useRedirectOnSuccess=1&ref_=nav_em_signout_0_1_1_39', 'nav_em_hd_clc_signin_0_1_1_39')"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+26-01-2024T22:57:18 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out'. Try using Self-healing.
+
+26-01-2024T22:57:19 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' was broken. Propose an alternative one: '//div[@id='hmenu-content']/ul/li[25]/a'.
+
+26-01-2024T22:57:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on
+
+26-01-2024T22:57:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T22:57:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04" time="47.057" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04" status="PASSED">
+         <system-out><![CDATA[26-01-2024T22:59:45 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04: Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04
+
+26-01-2024T22:59:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T22:59:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+26-01-2024T22:59:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T22:59:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T22:59:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T22:59:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:59:47 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T22:59:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:59:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T22:59:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:59:52 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T22:59:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:59:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T22:59:53 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:59:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T22:59:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:59:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T22:59:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All' is clicked on
+
+26-01-2024T23:00:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All' is clicked on
+
+26-01-2024T23:00:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on
+
+26-01-2024T23:00:31 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@onclick="$Nav.getNow('signInRedirect')('nav_em_hd_re_signin', '/gp/flex/sign-out.html?action=sign-out&path=%2Fgp%2Fhomepage.html%3F_encoding%3DUTF8%26ref_%3Dnavm_em_signin&signIn=1&useRedirectOnSuccess=1&ref_=nav_em_signout_0_1_1_39', 'nav_em_hd_clc_signin_0_1_1_39')"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+26-01-2024T23:00:31 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out'. Try using Self-healing.
+
+26-01-2024T23:00:31 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' was broken. Propose an alternative one: '//div[@id='hmenu-content']/ul/li[25]/a'.
+
+26-01-2024T23:00:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on
+
+26-01-2024T23:00:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:00:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04" time="45.88" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:02:55 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04: Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04
+
+26-01-2024T23:02:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:02:55 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+26-01-2024T23:02:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T23:02:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:02:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:02:57 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:02:59 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:02:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T23:03:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+26-01-2024T23:03:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T23:03:02 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_email'
+
+26-01-2024T23:03:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T23:03:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+26-01-2024T23:03:03 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T23:03:04 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/input_password'
+
+26-01-2024T23:03:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T23:03:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+26-01-2024T23:03:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All' is clicked on
+
+26-01-2024T23:03:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/span_All' is clicked on
+
+26-01-2024T23:03:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out")): Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on
+
+26-01-2024T23:03:41 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@onclick="$Nav.getNow('signInRedirect')('nav_em_hd_re_signin', '/gp/flex/sign-out.html?action=sign-out&path=%2Fgp%2Fhomepage.html%3F_encoding%3DUTF8%26ref_%3Dnavm_em_signin&signIn=1&useRedirectOnSuccess=1&ref_=nav_em_signout_0_1_1_39', 'nav_em_hd_clc_signin_0_1_1_39')"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+26-01-2024T23:03:41 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out'. Try using Self-healing.
+
+26-01-2024T23:03:41 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' was broken. Propose an alternative one: '//div[@id='hmenu-content']/ul/li[25]/a'.
+
+26-01-2024T23:03:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on
+
+26-01-2024T23:03:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:03:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-01-2024T22:56:18 - [TEST_SUITE][FAILED] - Amazon_Login_Logout: Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at TC_Amazon_Logout_04.run(TC_Amazon_Logout_04:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706289805993.run(TempTestSuite1706289805993.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-5AA6QQL1', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\tejac\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53907}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47b7b109c04d6e50e38cfa5140308c99
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[26-01-2024T22:56:18 - [TEST_SUITE][FAILED] - Amazon_Login_Logout: Test Cases/Data_Driven_Testing/TC_Amazon_Logout_04 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Amazon_Logout_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at TC_Amazon_Logout_04.run(TC_Amazon_Logout_04:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706289805993.run(TempTestSuite1706289805993.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=121.0.6167.85)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-5AA6QQL1', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.85, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\tejac\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53907}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47b7b109c04d6e50e38cfa5140308c99
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+   <testsuite name="Amazon_Wish_Search" tests="13" failures="0" errors="0" time="333.434" skipped="0" timestamp="26-01-2024T23:03:46" hostname="tejac - LAPTOP-5AA6QQL1" id="Test Suites/Amazon Test Suite/Amazon_Wish_Search">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Wish_Search\\20240126_225327"/>
+         <property name="logFiles" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Wish_Search\\20240126_225327\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Wish_Search\\20240126_225327\\1706290507661.png, C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240126_225322\\Amazon Test Suite\\Amazon_Wish_Search\\20240126_225327\\1706290610901.png"/>
+         <property name="hostName" value="tejac - LAPTOP-5AA6QQL1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Edge Chromium 120"/>
+         <property name="hostAddress" value="192.168.0.143"/>
+         <property name="sessionId" value="75e7d211cbbb34d78cbb3badeb8cea16"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="14.441" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:03:46 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:03:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:03:46 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:03:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:03:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:03:49 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:03:52 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:03:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:03:54 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:03:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:04:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:04:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:04:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="10.634" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:04:00 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:04:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:04:00 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:04:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:04:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:04:03 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:04:05 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:04:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:04:06 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:04:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:04:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:04:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:04:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="17.417" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:04:11 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:04:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:04:11 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:04:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:04:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:04:14 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:04:19 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:04:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:04:21 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:04:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:04:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:04:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:04:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="13.164" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:05:08 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:05:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:05:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+26-01-2024T23:05:08 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:05:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:05:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:05:11 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:05:13 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:05:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:05:14 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:05:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:05:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:05:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:05:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="11.239" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:05:21 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:05:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:05:21 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:05:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:05:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:05:23 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:05:25 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:05:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:05:26 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:05:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:05:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:05:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:05:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="39.851" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:05:32 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:05:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:05:32 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:05:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:05:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:05:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:05:37 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:05:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:06:06 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:06:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:06:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:06:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:06:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="12.078" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:06:51 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:06:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:06:51 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+26-01-2024T23:06:51 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:06:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:06:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:06:54 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:06:55 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:06:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:06:56 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:06:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:07:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:07:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:07:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="14.527" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:07:03 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:07:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:07:03 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:07:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:07:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:07:06 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:07:08 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:07:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:07:11 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:07:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:07:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:07:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:07:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="10.837" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:07:17 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:07:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:07:17 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:07:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:07:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:07:20 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:07:22 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:07:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:07:23 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:07:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:07:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:07:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:07:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" time="11.162" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Search_02" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:07:28 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Search_02: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02
+
+26-01-2024T23:07:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:07:28 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:07:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:07:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:07:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:07:32 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:07:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:07:34 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+26-01-2024T23:07:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:07:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:07:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:07:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03" time="35.97" classname="Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:07:39 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03: Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03
+
+26-01-2024T23:07:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:07:40 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:07:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:07:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:07:42 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:07:44 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:07:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Amazon.com  umbrella/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Page_Amazon.com  umbrella/input_field-keywords'
+
+26-01-2024T23:07:58 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Page_Amazon.com  umbrella/input_field-keywords'
+
+26-01-2024T23:07:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button")): Object: 'Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:08:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:08:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com  umbrella/img_s-image")): Object: 'Object Repository/Page_Amazon.com  umbrella/img_s-image' is clicked on
+
+26-01-2024T23:08:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com  umbrella/img_s-image' is clicked on
+
+26-01-2024T23:08:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List")): Object: 'Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List' is clicked on
+
+26-01-2024T23:08:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List' is clicked on
+
+26-01-2024T23:08:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:08:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03" time="21.36" classname="Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:08:15 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03: Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03
+
+26-01-2024T23:08:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:08:15 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:08:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:08:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:08:19 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:08:21 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:08:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Amazon.com  umbrella/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Page_Amazon.com  umbrella/input_field-keywords'
+
+26-01-2024T23:08:22 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Page_Amazon.com  umbrella/input_field-keywords'
+
+26-01-2024T23:08:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button")): Object: 'Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:08:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:08:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com  umbrella/img_s-image")): Object: 'Object Repository/Page_Amazon.com  umbrella/img_s-image' is clicked on
+
+26-01-2024T23:08:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com  umbrella/img_s-image' is clicked on
+
+26-01-2024T23:08:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List")): Object: 'Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List' is clicked on
+
+26-01-2024T23:08:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List' is clicked on
+
+26-01-2024T23:08:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:08:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03" time="42.096" classname="Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03" status="PASSED">
+         <system-out><![CDATA[26-01-2024T23:08:37 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03: Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03
+
+26-01-2024T23:08:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T23:08:37 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+26-01-2024T23:08:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T23:08:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T23:08:40 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:08:42 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+26-01-2024T23:08:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Amazon.com  umbrella/input_field-keywords"), "umbrella"): Text 'umbrella' is set on object 'Object Repository/Page_Amazon.com  umbrella/input_field-keywords'
+
+26-01-2024T23:09:03 - [MESSAGE][PASSED] - Text 'umbrella' is set on object 'Object Repository/Page_Amazon.com  umbrella/input_field-keywords'
+
+26-01-2024T23:09:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button")): Object: 'Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:09:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com  umbrella/inputnav-search-submit-button' is clicked on
+
+26-01-2024T23:09:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com  umbrella/img_s-image")): Object: 'Object Repository/Page_Amazon.com  umbrella/img_s-image' is clicked on
+
+26-01-2024T23:09:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com  umbrella/img_s-image' is clicked on
+
+26-01-2024T23:09:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List")): Object: 'Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List' is clicked on
+
+26-01-2024T23:09:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Amazon.com Anntrue Windproof Travel Um_6413a8/a_Add to List' is clicked on
+
+26-01-2024T23:09:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T23:09:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-01-2024T23:03:46 - [TEST_SUITE][FAILED] - Amazon_Wish_Search: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'umbrella' of object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1019)
+	at TC_Amazon_Search_02.run(TC_Amazon_Search_02:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706289807210.run(TempTestSuite1706289807210.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords' located by '//input[@id='twotabsearchtextbox']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[26-01-2024T23:03:46 - [TEST_SUITE][FAILED] - Amazon_Wish_Search: Test Cases/Data_Driven_Testing/TC_Amazon_Search_02 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'umbrella' of object 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1019)
+	at TC_Amazon_Search_02.run(TC_Amazon_Search_02:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706289807210.run(TempTestSuite1706289807210.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Amazon_Search_OR/Page_Amazon.com. Spend less. Smile more/input_field-keywords' located by '//input[@id='twotabsearchtextbox']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

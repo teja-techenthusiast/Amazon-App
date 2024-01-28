@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "8324DF54A77C659DBB9926DA496DDEB2",
+  "keywordClasses": [
+    {
+      "name": "qa.test.com.custom",
+      "keywordMethods": [
+        {
+          "name": "printHello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

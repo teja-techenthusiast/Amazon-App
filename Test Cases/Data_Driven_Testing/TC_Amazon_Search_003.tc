@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Search_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>738f3207-1e0d-4d4c-b690-8572c13e35d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a056e90-bb6d-4780-b57d-4c50532aad1a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a056e90-bb6d-4780-b57d-4c50532aad1a</id>
+      <masked>false</masked>
+      <name>items</name>
+   </variable>
+</TestCaseEntity>

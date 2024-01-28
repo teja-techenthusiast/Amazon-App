@@ -1,0 +1,4 @@
+{"testCaseName":"Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03","testCaseId":"Test Cases/Data_Driven_Testing/Tc_Amazon_Wish_03","iterationVariableName":""}
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Search_02","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Search_02","iterationVariableName":"","bindedValues":{"item":"\u0027umbrella\u0027","category":"\u0027baby\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Search_02","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Search_02","iterationVariableName":"","bindedValues":{"item":"\u0027vaseline\u0027","category":"\u0027electronics\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Search_02","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Search_02","iterationVariableName":"","bindedValues":{"item":"\u0027bottle\u0027","category":"\u0027beauty\u0027"}}

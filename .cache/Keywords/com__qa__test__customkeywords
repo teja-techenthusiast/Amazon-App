@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "373D664BB1F46276258E62E301D9A6C1",
+  "keywordClasses": [
+    {
+      "name": "com.qa.test.customkeywords",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

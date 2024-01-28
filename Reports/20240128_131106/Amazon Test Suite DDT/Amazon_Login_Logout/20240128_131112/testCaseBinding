@@ -1,0 +1,4 @@
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Login_01","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Login_01","iterationVariableName":""}
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Logout_02","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Logout_02","iterationVariableName":"","bindedValues":{"password":"\u0027Teju@5640\u0027","email":"\u0027tejach312@gmail.com\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Logout_02","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Logout_02","iterationVariableName":"","bindedValues":{"password":"\u0027Teju@5640\u0027","email":"\u0027tejach312@gmail.com\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Logout_02","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Logout_02","iterationVariableName":"","bindedValues":{"password":"\u0027Teju@5640\u0027","email":"\u0027tejach312@gmail.com\u0027"}}

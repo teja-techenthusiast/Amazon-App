@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon Location,Chrome 121.0.0.0,,,25-01-2024 21:40:32,25-01-2024 21:41:12,39.394s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Best sellers,Chrome 121.0.0.0,,,25-01-2024 21:40:33,25-01-2024 21:40:53,20.079s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 21:40:33,25-01-2024 21:40:35,2.129s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 21:40:35,25-01-2024 21:40:37,1.806s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,25-01-2024 21:40:37,25-01-2024 21:40:39,1.998s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,25-01-2024 21:40:39,25-01-2024 21:40:40,1.406s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,25-01-2024 21:40:40,25-01-2024 21:40:41,0.956s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,25-01-2024 21:40:41,25-01-2024 21:40:43,1.433s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,25-01-2024 21:40:43,25-01-2024 21:40:43,0.379s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon.com. Spend less. Smile more/i_hm-icon nav-sprite""))",Chrome 121.0.0.0,,,25-01-2024 21:40:43,25-01-2024 21:40:46,2.778s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon.com. Spend less. Smile more/a_United States""))",Chrome 121.0.0.0,,,25-01-2024 21:40:46,25-01-2024 21:40:48,2.181s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Go to website/span_United States""))",Chrome 121.0.0.0,,,25-01-2024 21:40:48,25-01-2024 21:40:50,2.087s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Go to website/a_India""))",Chrome 121.0.0.0,,,25-01-2024 21:40:50,25-01-2024 21:40:51,1.113s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Go to website/input_a-button-input""))",Chrome 121.0.0.0,,,25-01-2024 21:40:51,25-01-2024 21:40:52,1.127s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 21:40:52,25-01-2024 21:40:53,0.330s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_Testing/TC_Amazon_Best sellers,Chrome 121.0.0.0,,,25-01-2024 21:40:53,25-01-2024 21:41:12,18.957s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,25-01-2024 21:40:53,25-01-2024 21:40:54,1.248s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,25-01-2024 21:40:54,25-01-2024 21:40:56,2.267s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,25-01-2024 21:40:56,25-01-2024 21:40:58,1.617s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon Sign-In/input_email""), ""tejach312@gmail.com"")",Chrome 121.0.0.0,,,25-01-2024 21:40:58,25-01-2024 21:40:59,1.326s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon Sign-In/inputcontinue""))",Chrome 121.0.0.0,,,25-01-2024 21:40:59,25-01-2024 21:41:01,1.381s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon Sign-In/input_password""), ""MAPjDJh7XRfzOPtg0Z9QNQ=="")",Chrome 121.0.0.0,,,25-01-2024 21:41:01,25-01-2024 21:41:02,1.029s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon Sign-In/inputsignInSubmit""))",Chrome 121.0.0.0,,,25-01-2024 21:41:02,25-01-2024 21:41:02,0.371s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon.com. Spend less. Smile more/i_hm-icon nav-sprite""))",Chrome 121.0.0.0,,,25-01-2024 21:41:02,25-01-2024 21:41:05,2.917s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Amazon.com. Spend less. Smile more/a_United States""))",Chrome 121.0.0.0,,,25-01-2024 21:41:05,25-01-2024 21:41:07,2.325s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Go to website/span_United States""))",Chrome 121.0.0.0,,,25-01-2024 21:41:07,25-01-2024 21:41:09,1.969s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Go to website/a_India""))",Chrome 121.0.0.0,,,25-01-2024 21:41:09,25-01-2024 21:41:10,0.974s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Loc_OR/Page_Go to website/input_a-button-input""))",Chrome 121.0.0.0,,,25-01-2024 21:41:10,25-01-2024 21:41:11,1.135s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,25-01-2024 21:41:11,25-01-2024 21:41:12,0.350s,PASSED

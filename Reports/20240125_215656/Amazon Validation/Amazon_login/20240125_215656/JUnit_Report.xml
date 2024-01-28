@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_login" time="102.827" tests="3" failures="0" errors="0">
+   <testsuite name="Amazon_login" tests="3" failures="0" errors="0" time="102.827" skipped="0" timestamp="25-01-2024T21:56:59" hostname="tejac - LAPTOP-5AA6QQL1" id="Test Suites/Amazon Validation/Amazon_login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240125_215656\\Amazon Validation\\Amazon_login\\20240125_215656"/>
+         <property name="logFiles" value="C:\\Users\\tejac\\git\\Amazon-App\\Reports\\20240125_215656\\Amazon Validation\\Amazon_login\\20240125_215656\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="tejac - LAPTOP-5AA6QQL1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.143"/>
+         <property name="sessionId" value="edb119d933bd2bb5d612dc61e4b607f4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Login_01" time="44.765" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Login_01" status="PASSED">
+         <system-out><![CDATA[25-01-2024T21:57:00 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Login_01: Test Cases/Data_Driven_Testing/TC_Amazon_Login_01
+
+25-01-2024T21:57:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-01-2024T21:57:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-01-2024T21:57:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-01-2024T21:57:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-01-2024T21:57:02 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+25-01-2024T21:57:04 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+25-01-2024T21:57:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+25-01-2024T21:57:35 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //span[@id='nav-link-accountList-nav-line-1']'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T21:57:35 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in'. Try using Self-healing.
+
+25-01-2024T21:57:35 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//span[@id='nav-link-accountList-nav-line-1']'.
+
+25-01-2024T21:57:38 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '//a[@id='nav-link-accountList']/div/span'.
+
+25-01-2024T21:57:39 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/tejac/git/Amazon-App/Reports/Self-healing/Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in_idRelative.png
+
+25-01-2024T21:57:39 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' was broken. Propose an alternative one: '//a[@id='nav-link-accountList']/div/span'.
+
+25-01-2024T21:57:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+25-01-2024T21:57:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email'
+
+25-01-2024T21:57:41 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email'
+
+25-01-2024T21:57:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+25-01-2024T21:57:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+25-01-2024T21:57:43 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password'
+
+25-01-2024T21:57:44 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password'
+
+25-01-2024T21:57:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+25-01-2024T21:57:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+25-01-2024T21:57:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-01-2024T21:57:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Login_01" time="45.659" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Login_01" status="PASSED">
+         <system-out><![CDATA[25-01-2024T21:57:44 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Login_01: Test Cases/Data_Driven_Testing/TC_Amazon_Login_01
+
+25-01-2024T21:57:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-01-2024T21:57:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-01-2024T21:57:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-01-2024T21:57:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-01-2024T21:57:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+25-01-2024T21:57:47 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+25-01-2024T21:57:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+25-01-2024T21:58:18 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //span[@id='nav-link-accountList-nav-line-1']'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T21:58:18 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in'. Try using Self-healing.
+
+25-01-2024T21:58:19 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='nav-link-accountList']/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+25-01-2024T21:58:19 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//span[@id='nav-link-accountList-nav-line-1']'.
+
+25-01-2024T21:58:20 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[@id='nav-link-accountList']/div/span'.
+
+25-01-2024T21:58:20 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//a[2]/div/span'.
+
+25-01-2024T21:58:20 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//span[@id = 'nav-link-accountList-nav-line-1' and (text() = 'Hello, sign in' or . = 'Hello, sign in')]'.
+
+25-01-2024T21:58:24 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/tejac/git/Amazon-App/Reports/Self-healing/Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in_BASIC.png
+
+25-01-2024T21:58:24 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' was broken. Propose an alternative one: '//*[@id = 'nav-link-accountList-nav-line-1' and (text() = 'Hello, sign in' or . = 'Hello, sign in')]'.
+
+25-01-2024T21:58:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+25-01-2024T21:58:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email'
+
+25-01-2024T21:58:26 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email'
+
+25-01-2024T21:58:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+25-01-2024T21:58:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+25-01-2024T21:58:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password'
+
+25-01-2024T21:58:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password'
+
+25-01-2024T21:58:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+25-01-2024T21:58:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+25-01-2024T21:58:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-01-2024T21:58:30 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_Driven_Testing/TC_Amazon_Login_01" time="11.99" classname="Test Cases/Data_Driven_Testing/TC_Amazon_Login_01" status="PASSED">
+         <system-out><![CDATA[25-01-2024T21:58:30 - [TEST_CASE][PASSED] - Test Cases/Data_Driven_Testing/TC_Amazon_Login_01: Test Cases/Data_Driven_Testing/TC_Amazon_Login_01
+
+25-01-2024T21:58:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-01-2024T21:58:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-01-2024T21:58:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-01-2024T21:58:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-01-2024T21:58:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+25-01-2024T21:58:32 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+25-01-2024T21:58:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+25-01-2024T21:58:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+25-01-2024T21:58:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email"), "tejach312@gmail.com"): Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email'
+
+25-01-2024T21:58:39 - [MESSAGE][PASSED] - Text 'tejach312@gmail.com' is set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_email'
+
+25-01-2024T21:58:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+25-01-2024T21:58:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+25-01-2024T21:58:40 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password"), "MAPjDJh7XRfzOPtg0Z9QNQ=="): Text ****** has been set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password'
+
+25-01-2024T21:58:41 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/input_password'
+
+25-01-2024T21:58:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+25-01-2024T21:58:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazon_Loginn_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+25-01-2024T21:58:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-01-2024T21:58:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-01-2024T21:56:59 - [TEST_SUITE][PASSED] - Amazon_login: Test Cases/Data_Driven_Testing/TC_Amazon_Login_01]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

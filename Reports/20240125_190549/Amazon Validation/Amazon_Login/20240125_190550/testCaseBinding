@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Login_01","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Login_01","iterationVariableName":"","bindedValues":{"password":"\u0027Teju@5640\u0027","email":"\u0027tejach312@gmail.com\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Login_01","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Login_01","iterationVariableName":"","bindedValues":{"password":"\u0027xyz@124\u0027","email":"\u0027xyz@gmail.com\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_Testing/TC_Amazon_Login_01","testCaseId":"Test Cases/Data_Driven_Testing/TC_Amazon_Login_01","iterationVariableName":"","bindedValues":{"password":"\u0027abc@124\u0027","email":"\u0027abc@gmail.com\u0027"}}

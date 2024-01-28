@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc_Amazon_Wish_05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41f64c4d-470a-4af7-aa4f-6b963c8a8915</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d96b455-a958-4b26-8503-4cc5fdd1fb31</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d96b455-a958-4b26-8503-4cc5fdd1fb31</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>
